@@ -1,1 +1,1 @@
-print("Chaythu pass fsd lab");
+print("Chaythu pass fsd lab")
